@@ -9,6 +9,8 @@ public class Calculator {
 		int e=11;
 		
 		c = d + e;
+		
+		a= b + c;
 	}
 
 }
