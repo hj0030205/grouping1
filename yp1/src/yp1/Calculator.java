@@ -5,7 +5,8 @@ public class Calculator {
 		int a=1;
 		int b=1;
 		int c=0;
-		
+		int d=10;
+		int e=11;
 		
 		
 	}
