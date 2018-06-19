@@ -8,7 +8,7 @@ public class Calculator {
 		int d=10;
 		int e=11;
 		
-		
+		c = d + e;
 	}
 
 }
